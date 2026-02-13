@@ -2,6 +2,7 @@
 You can make ba$h file from Linux terminal.
 
 Step 1: Open linux Kernel operating System or in window open gitbash
+
 Step 2: now make file in terminal type:  touch file.sh or you can directly type nano file.sh
 Step 3: then press enter and get into bash shell and type your script
 Step 4: After complete you script then press ctrl+x (save)then y(yes)/n(no) then enter
